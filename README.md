@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Felix Vera</h1>
+<h1 align="center">Hola 👋, yo soy Felix Vera</h1>
 <h3 align="center">Un polifacético desarrollador web</h3>
+
+- 📫 How to reach me **jedi_fr@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
